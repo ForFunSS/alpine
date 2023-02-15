@@ -33,13 +33,24 @@
     </div>
     <div class="header-cont">
       <div class="dt-right"></div>
+      <div class="dt-left"> <div class="div-img"><img src="../../src/assets/images/logo-content.svg" alt=""></div></div>
       <div class="container cont-head">
         <div class="div-text">
           ПОСТАВКА, МОНТАЖ И СЕРВИС СИСТЕМ <br>ВЕНЕТИЛЯЦИИ, КОНДИЦИНИРОВАНИЯ,<br> ХОЛОДОСНАБЖЕНИЯ И ОТОПЛЕНИЯ ДЛЯ<br> КОММЕРЧЕСКИХ И ПРОМЫШЛЕННЫХ ПОМЕЩЕНИЙ
         </div>
       </div>
-      <div class="container">
-        <a href="" class="btn">Вызвать инженера</a>
+      <div class="container container-sub-head">
+        <div class="dt1">
+          <a href="" class="btn">Вызвать инженера</a>
+          <div class="div-text">
+            Инженер бесплатно приедет на ваш объект<br> и рассчитает точную стоимость решения <br>поставленной задачи
+          </div>
+        </div>
+        <div class="dt2">
+          <div class="arrow-animate">
+            <img src="../../src/assets/images/ico-arrow.svg" alt="">
+          </div>
+        </div>
       </div>
     </div>
   </div>
