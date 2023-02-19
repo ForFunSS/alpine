@@ -19,12 +19,12 @@
     data() {
       return{
         projData: [
-          { sourceImage: 'https://placekitten.com/200/200', sourceName: 'ca dad asd q232 bw '},
-          { sourceImage: 'https://placekitten.com/200/200', sourceName: 'lorem asd aseq23'},
-          { sourceImage: 'https://placekitten.com/100/200', sourceName: 'asd 23 4rawse eq2'},
-          { sourceImage: 'https://placekitten.com/2400/200', sourceName: 'ca dad asd q232 bw '},
-          { sourceImage: 'https://placekitten.com/500/200', sourceName: 'lorem asd aseq23'},
-          { sourceImage: 'https://placekitten.com/100/200', sourceName: 'asd 23 4rawse eq2'},
+          { sourceImage: 'https://via.placeholder.com/640x360', sourceName: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'},
+          { sourceImage: 'https://via.placeholder.com/500x360', sourceName: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit3'},
+          { sourceImage: 'https://via.placeholder.com/200x340', sourceName: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit2'},
+          { sourceImage: 'https://via.placeholder.com/640x360', sourceName: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'},
+          { sourceImage: 'https://via.placeholder.com/2000x360', sourceName: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'},
+          { sourceImage: 'https://via.placeholder.com/640x360', sourceName: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'},
         ]
       }
     }

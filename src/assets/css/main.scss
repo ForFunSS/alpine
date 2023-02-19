@@ -175,7 +175,7 @@ h2{
       }
     }
     .dt-left{
-      width: 62%;
+      width: 42%;
       height: 385px;
       position: absolute;
       overflow: hidden;
@@ -190,7 +190,7 @@ h2{
       &:after{
         content: "";
         background: linear-gradient(90deg, #1080EB 27.07%, rgba(18, 0, 130, 0) 80.18%, rgba(217, 217, 217, 0) 87.63%, rgba(18, 0, 130, 0) 87.63%, rgba(18, 0, 130, 0) 87.63%);
-        width: calc(60% - 90px);
+        width: calc(90% - 120px);
         height: 100%;
         position: absolute;
         right: 0;
@@ -204,7 +204,7 @@ h2{
         position: absolute;
         border: 305px solid transparent;
         border-right: 185px solid #1080EB;
-        right: 550px;
+        left: -290px;
         top: -165px;
       }
     }
@@ -307,6 +307,86 @@ h2{
   }
 }
 
+.unselect{
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.wrap-cont2{
+  h2{
+    margin-bottom: 80px;
+  }
+}
+.block-process-work{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  .el{
+    max-width: 340px;
+    padding: 20px;
+    font-family: RussoOne-Regular;
+    position: relative;
+    margin-bottom: 120px;
+    .div-float-number{
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      z-index: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 400;
+      font-size: 260px;
+      line-height: 100%;
+      color: #2194ff;
+      opacity: .5;
+      padding-bottom: 80px;
+    }
+    .div-main-cont{
+      z-index: 100;
+      color: white;
+      position: relative;
+      .header-text{
+        display: flex;
+        justify-content: space-between;
+        font-size: 20px;
+        text-transform: uppercase;
+        .desc-text{
+          flex: 1;
+          padding-bottom: 11px;
+          margin-bottom: 19px;
+          position: relative;
+          &:after{
+            content: "";
+            height: 5px;
+            width: 121px;
+            background: #1d81dd;
+            bottom: 0;
+            left: 0;
+            position: absolute;
+          }
+        }
+        .desc-img{
+          img{
+            max-width: 56px;
+            max-height: 56px;
+            width: 100%;
+            height: 100%;
+          }
+        }
+      }
+      .sub-desc{
+        font-family: OpenSans-Regular;
+        font-size: 19px;
+        line-height: 120%;
+      }
+    }
+  }
+}
 
 
 .arrow-down{
