@@ -14,7 +14,7 @@
                 выезд инженера
               </div>
               <div class="desc-img">
-                <img src="../assets/images/key.svg" alt="">
+                <img src="../assets/images/ico-key.svg" alt="">
               </div>
             </div>
             <div class="sub-desc">
@@ -37,7 +37,7 @@
                 выезд инженера
               </div>
               <div class="desc-img">
-                <img src="../assets/images/key.svg" alt="">
+                <img src="../assets/images/ico-key.svg" alt="">
               </div>
             </div>
             <div class="sub-desc">
@@ -60,7 +60,7 @@
                 выезд инженера
               </div>
               <div class="desc-img">
-                <img src="../assets/images/key.svg" alt="">
+                <img src="../assets/images/ico-key.svg" alt="">
               </div>
             </div>
             <div class="sub-desc">
@@ -83,7 +83,7 @@
                 выезд инженера
               </div>
               <div class="desc-img">
-                <img src="../assets/images/key.svg" alt="">
+                <img src="../assets/images/ico-key.svg" alt="">
               </div>
             </div>
             <div class="sub-desc">
@@ -106,7 +106,7 @@
                 выезд инженера
               </div>
               <div class="desc-img">
-                <img src="../assets/images/key.svg" alt="">
+                <img src="../assets/images/ico-key.svg" alt="">
               </div>
             </div>
             <div class="sub-desc">
@@ -129,7 +129,7 @@
                 выезд инженера
               </div>
               <div class="desc-img">
-                <img src="../assets/images/key.svg" alt="">
+                <img src="../assets/images/ico-key.svg" alt="">
               </div>
             </div>
             <div class="sub-desc">
@@ -152,7 +152,7 @@
                 выезд инженера
               </div>
               <div class="desc-img">
-                <img src="../assets/images/key.svg" alt="">
+                <img src="../assets/images/ico-key.svg" alt="">
               </div>
             </div>
             <div class="sub-desc">
@@ -175,7 +175,7 @@
                 выезд инженера
               </div>
               <div class="desc-img">
-                <img src="../assets/images/key.svg" alt="">
+                <img src="../assets/images/ico-key.svg" alt="">
               </div>
             </div>
             <div class="sub-desc">
@@ -198,7 +198,7 @@
                 выезд инженера
               </div>
               <div class="desc-img">
-                <img src="../assets/images/key.svg" alt="">
+                <img src="../assets/images/ico-key.svg" alt="">
               </div>
             </div>
             <div class="sub-desc">
